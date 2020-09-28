@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/home/gideon/.dotnet/store/|arch|/|tfm|",
-      "/home/gideon/.nuget/packages"
-    ]
-  }
-}
